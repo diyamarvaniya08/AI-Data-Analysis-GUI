@@ -32,6 +32,10 @@ This tool allows non-technical users to analyze Excel or CSV files, generate rep
  - Browse csv/ Excel file:
       - Sample File is Given: Raw files folder -> raw_sales_data.xlsx
 
+    ## Download Executable Version
+     - You can download the Windows executable (.exe) file from the **Releases** section of this repository.
+     - No Python installation required for the (.exe) version.
+
 # Project Files:
   - smart_analyzer.py (Main Python Code for GUI application)
   - Corporate Data Analyzer.png
