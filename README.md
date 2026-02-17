@@ -62,7 +62,8 @@ This tool allows non-technical users to analyze Excel or CSV files, generate rep
  - The goal of this project is to bridge the gap between technical data analysis and everyday business users.
  - Automation in Python using AI prompt engineering
 
-
+# LinkedIn
+ - Project is showcased on LinkedIn: https://www.linkedin.com/posts/diya-marvaniya-932088381_python-dataanalysis-ai-activity-7429549717530820609-gHSP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4pUzYBQcuBUgmKk_OAlz9KU4n5MJKhqwI
 
 
 
